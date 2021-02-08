@@ -12,12 +12,5 @@ printf ("Perimetro do retangulo e: %f", perimetro);
 
 printf ("Apenas modificando o arquivo");
 
-<<<<<<< HEAD
-printf ("Testando a atividade");
-
-=======
 printf ("Apenas modificando o arquivo de novo");
-
-printf ("Teste wendel esteve aqui");
->>>>>>> cb7398850a71b3bee829003e7198581ebec18e56
 }
