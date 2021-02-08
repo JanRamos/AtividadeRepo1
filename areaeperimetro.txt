@@ -13,4 +13,6 @@ printf ("Perimetro do retangulo e: %f", perimetro);
 printf ("Apenas modificando o arquivo");
 
 printf ("Apenas modificando o arquivo de novo");
+
+printf ("Teste wendel esteve aqui");
 }
